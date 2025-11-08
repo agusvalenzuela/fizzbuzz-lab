@@ -1,3 +1,30 @@
+<div align="center">
+
+<table>
+<tr>
+<td>
+
+Equipo Q-ERO v3 Protocol,
+Washington Mardones,
+Agustín Valenzuela,
+Karim Valenzuela,
+Javier Valenzuela,
+Anita Morales,
+Nicolás Peña,
+
+
+</td>
+<td align="center" valign="middle" width="320">
+  <img src="./images/logo_Q-ERO.png" alt="Logo Q-ERO v3 Protocol" width="270">
+</td>
+</tr>
+</table>
+
+</div>
+
+
+
+
 # Instructions
 The FizzBuzz challenge is one of the most common programming interview tasks in the world. The challenge is to write a program that will output a list of numbers, replacing every 3rd number with Fizz, and every 5th number with Buzz.
 
